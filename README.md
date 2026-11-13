@@ -44,7 +44,7 @@ The repository consists of standalone Jupyter Notebooks dedicated to specific mo
 
 1. **Clone the repository:**
     ```bash
-    git clone [[https://github.com/YOUR_USERNAME/KIAAR_SwDC_KJSSE.git](https://github.com/YOUR_USERNAME/KIAAR_SwDC_KJSSE.git)](https://github.com/RutujaPalshikar/KIAAR_SwDC_KJSSE)
+    git clone https://github.com/RutujaPalshikar/KIAAR_SwDC_KJSSE
     cd KIAAR_SwDC_KJSSE
     ```
 
